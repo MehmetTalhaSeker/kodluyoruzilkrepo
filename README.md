@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](./Ekran2021-08-23122417)
+![github](https://github.com/MehmetTalhaSeker/kodluyoruzilkrepo/blob/main/Ekran2021-08-23122417.jpg)
 
 ## Installation
 
